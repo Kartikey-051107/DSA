@@ -14,7 +14,9 @@ int main()
         sum+=arr[j];
         }
     cout<<sum;
-    }
+   
+return 0;
+}
         
         
         
